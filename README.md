@@ -1,2 +1,2 @@
-# national-park-vf
-A fork of the typeface National Park, redrawn as a variable font.
+# National Park Variable Font
+A fork of the National Park typeface, redrawn as a variable font.
