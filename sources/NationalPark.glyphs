@@ -2054,8 +2054,9 @@ unicode = 0100;
 },
 {
 color = 0;
+export = 0;
 glyphname = Aring;
-lastChange = "2019-06-12 20:40:40 +0000";
+lastChange = "2019-06-13 09:15:10 +0000";
 layers = (
 {
 hints = (
@@ -2252,8 +2253,9 @@ unicode = 00C5;
 },
 {
 color = 0;
+export = 0;
 glyphname = Atilde;
-lastChange = "2019-06-12 20:41:22 +0000";
+lastChange = "2019-06-13 09:15:10 +0000";
 layers = (
 {
 hints = (
@@ -2652,8 +2654,9 @@ note = Atilde;
 unicode = 00C3;
 },
 {
+export = 0;
 glyphname = AE;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -2841,8 +2844,9 @@ note = AE;
 unicode = 00C6;
 },
 {
+export = 0;
 glyphname = B;
-lastChange = "2019-06-12 20:47:38 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3027,8 +3031,9 @@ note = B;
 unicode = 0042;
 },
 {
+export = 0;
 glyphname = C;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3187,8 +3192,9 @@ note = C;
 unicode = 0043;
 },
 {
+export = 0;
 glyphname = Ccedilla;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3427,8 +3433,9 @@ note = Ccedilla;
 unicode = 00C7;
 },
 {
+export = 0;
 glyphname = D;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3592,8 +3599,9 @@ note = D;
 unicode = 0044;
 },
 {
+export = 0;
 glyphname = E;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3733,8 +3741,9 @@ note = E;
 unicode = 0045;
 },
 {
+export = 0;
 glyphname = Eacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -3931,8 +3940,9 @@ note = Eacute;
 unicode = 00C9;
 },
 {
+export = 0;
 glyphname = Ecircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -4132,8 +4142,9 @@ note = Ecircumflex;
 unicode = 00CA;
 },
 {
+export = 0;
 glyphname = Edieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -4376,8 +4387,9 @@ note = Edieresis;
 unicode = 00CB;
 },
 {
+export = 0;
 glyphname = Egrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:11 +0000";
 layers = (
 {
 hints = (
@@ -4572,8 +4584,9 @@ note = Egrave;
 unicode = 00C8;
 },
 {
+export = 0;
 glyphname = Emacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:14 +0000";
 layers = (
 {
 hints = (
@@ -4885,8 +4898,9 @@ note = F;
 unicode = 0046;
 },
 {
+export = 0;
 glyphname = G;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:18 +0000";
 layers = (
 {
 hints = (
@@ -5669,8 +5683,9 @@ note = Idieresis;
 unicode = 00CF;
 },
 {
+export = 0;
 glyphname = Igrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:21 +0000";
 layers = (
 {
 hints = (
@@ -5909,8 +5924,9 @@ note = Imacron;
 unicode = 012A;
 },
 {
+export = 0;
 glyphname = J;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:26 +0000";
 layers = (
 {
 hints = (
@@ -6029,8 +6045,9 @@ note = J;
 unicode = 004A;
 },
 {
+export = 0;
 glyphname = K;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:26 +0000";
 layers = (
 {
 hints = (
@@ -6148,8 +6165,9 @@ note = K;
 unicode = 004B;
 },
 {
+export = 0;
 glyphname = L;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:26 +0000";
 layers = (
 {
 hints = (
@@ -6242,8 +6260,9 @@ note = L;
 unicode = 004C;
 },
 {
+export = 0;
 glyphname = M;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:26 +0000";
 layers = (
 {
 hints = (
@@ -6501,8 +6520,9 @@ note = N;
 unicode = 004E;
 },
 {
+export = 0;
 glyphname = Nacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -6662,8 +6682,9 @@ note = Nacute;
 unicode = 0143;
 },
 {
+export = 0;
 glyphname = Ntilde;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -6843,8 +6864,9 @@ note = Ntilde;
 unicode = 00D1;
 },
 {
+export = 0;
 glyphname = O;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -6993,8 +7015,9 @@ note = O;
 unicode = 004F;
 },
 {
+export = 0;
 glyphname = Oacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -7184,8 +7207,9 @@ note = Oacute;
 unicode = 00D3;
 },
 {
+export = 0;
 glyphname = Ocircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -7385,8 +7409,9 @@ note = Ocircumflex;
 unicode = 00D4;
 },
 {
+export = 0;
 glyphname = Odieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -7611,8 +7636,9 @@ note = Odieresis;
 unicode = 00D6;
 },
 {
+export = 0;
 glyphname = Ograve;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -7802,8 +7828,9 @@ note = Ograve;
 unicode = 00D2;
 },
 {
+export = 0;
 glyphname = Otilde;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -8016,8 +8043,9 @@ note = Otilde;
 unicode = 00D5;
 },
 {
+export = 0;
 glyphname = OE;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -8275,8 +8303,9 @@ note = OE;
 unicode = 0152;
 },
 {
+export = 0;
 glyphname = P;
-lastChange = "2019-06-13 09:14:48 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -8411,8 +8440,9 @@ note = P;
 unicode = 0050;
 },
 {
+export = 0;
 glyphname = Q;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:30 +0000";
 layers = (
 {
 hints = (
@@ -8799,8 +8829,9 @@ note = R;
 unicode = 0052;
 },
 {
+export = 0;
 glyphname = S;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:33 +0000";
 layers = (
 {
 hints = (
@@ -9100,8 +9131,9 @@ note = T;
 unicode = 0054;
 },
 {
+export = 0;
 glyphname = U;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -9222,8 +9254,9 @@ note = U;
 unicode = 0055;
 },
 {
+export = 0;
 glyphname = Uacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -9394,8 +9427,9 @@ note = Uacute;
 unicode = 00DA;
 },
 {
+export = 0;
 glyphname = Ucircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -9572,8 +9606,9 @@ note = Ucircumflex;
 unicode = 00DB;
 },
 {
+export = 0;
 glyphname = Udieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -9802,8 +9837,9 @@ note = Udieresis;
 unicode = 00DC;
 },
 {
+export = 0;
 glyphname = Ugrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -9974,8 +10010,9 @@ note = Ugrave;
 unicode = 00D9;
 },
 {
+export = 0;
 glyphname = Umacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -10139,8 +10176,9 @@ note = Umacron;
 unicode = 016A;
 },
 {
+export = 0;
 glyphname = V;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -10237,8 +10275,9 @@ note = V;
 unicode = 0056;
 },
 {
+export = 0;
 glyphname = W;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -10363,8 +10402,9 @@ note = W;
 unicode = 0057;
 },
 {
+export = 0;
 glyphname = X;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:37 +0000";
 layers = (
 {
 hints = (
@@ -10583,8 +10623,9 @@ note = Y;
 unicode = 0059;
 },
 {
+export = 0;
 glyphname = Ydieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -10787,8 +10828,9 @@ note = Ydieresis;
 unicode = 0178;
 },
 {
+export = 0;
 glyphname = Z;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -10889,8 +10931,9 @@ note = Z;
 unicode = 005A;
 },
 {
+export = 0;
 glyphname = a;
-lastChange = "2019-06-13 09:13:49 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -11150,8 +11193,9 @@ note = a;
 unicode = 0061;
 },
 {
+export = 0;
 glyphname = aacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -11454,8 +11498,9 @@ note = aacute;
 unicode = 00E1;
 },
 {
+export = 0;
 glyphname = acircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -11764,8 +11809,9 @@ note = acircumflex;
 unicode = 00E2;
 },
 {
+export = 0;
 glyphname = adieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -12120,8 +12166,9 @@ note = adieresis;
 unicode = 00E4;
 },
 {
+export = 0;
 glyphname = agrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -12424,8 +12471,9 @@ note = agrave;
 unicode = 00E0;
 },
 {
+export = 0;
 glyphname = amacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -12726,8 +12774,9 @@ note = amacron;
 unicode = 0101;
 },
 {
+export = 0;
 glyphname = aring;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -13065,8 +13114,9 @@ note = aring;
 unicode = 00E5;
 },
 {
+export = 0;
 glyphname = atilde;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -13400,8 +13450,9 @@ note = atilde;
 unicode = 00E3;
 },
 {
+export = 0;
 glyphname = ae;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -13743,8 +13794,9 @@ note = ae;
 unicode = 00E6;
 },
 {
+export = 0;
 glyphname = b;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -13933,8 +13985,9 @@ note = b;
 unicode = 0062;
 },
 {
+export = 0;
 glyphname = c;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -14075,8 +14128,9 @@ note = c;
 unicode = 0063;
 },
 {
+export = 0;
 glyphname = d;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -14265,8 +14319,9 @@ note = d;
 unicode = 0064;
 },
 {
+export = 0;
 glyphname = e;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -14428,8 +14483,9 @@ note = e;
 unicode = 0065;
 },
 {
+export = 0;
 glyphname = eacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -14634,8 +14690,9 @@ note = eacute;
 unicode = 00E9;
 },
 {
+export = 0;
 glyphname = ecircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -14856,8 +14913,9 @@ note = ecircumflex;
 unicode = 00EA;
 },
 {
+export = 0;
 glyphname = edieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -15100,8 +15158,9 @@ note = edieresis;
 unicode = 00EB;
 },
 {
+export = 0;
 glyphname = egrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -15306,8 +15365,9 @@ note = egrave;
 unicode = 00E8;
 },
 {
+export = 0;
 glyphname = emacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -15514,8 +15574,9 @@ note = emacron;
 unicode = 0113;
 },
 {
+export = 0;
 glyphname = f;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -15652,8 +15713,9 @@ note = f;
 unicode = 0066;
 },
 {
+export = 0;
 glyphname = g;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -15887,8 +15949,9 @@ note = g;
 unicode = 0067;
 },
 {
+export = 0;
 glyphname = h;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:41 +0000";
 layers = (
 {
 hints = (
@@ -16139,8 +16202,9 @@ note = i;
 unicode = 0069;
 },
 {
+export = 0;
 glyphname = iacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:44 +0000";
 layers = (
 {
 hints = (
@@ -16266,8 +16330,9 @@ note = iacute;
 unicode = 00ED;
 },
 {
+export = 0;
 glyphname = icircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:44 +0000";
 layers = (
 {
 hints = (
@@ -16798,8 +16863,9 @@ note = imacron;
 unicode = 012B;
 },
 {
+export = 0;
 glyphname = j;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:48 +0000";
 layers = (
 {
 hints = (
@@ -16931,8 +16997,9 @@ note = j;
 unicode = 006A;
 },
 {
+export = 0;
 glyphname = k;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 09:15:48 +0000";
 layers = (
 {
 hints = (
@@ -17151,8 +17218,9 @@ note = l;
 unicode = 006C;
 },
 {
+export = 0;
 glyphname = m;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -17359,8 +17427,9 @@ note = m;
 unicode = 006D;
 },
 {
+export = 0;
 glyphname = n;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -17503,8 +17572,9 @@ note = n;
 unicode = 006E;
 },
 {
+export = 0;
 glyphname = nacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -17689,8 +17759,9 @@ note = nacute;
 unicode = 0144;
 },
 {
+export = 0;
 glyphname = ntilde;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -17917,8 +17988,9 @@ note = ntilde;
 unicode = 00F1;
 },
 {
+export = 0;
 glyphname = o;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18039,8 +18111,9 @@ note = o;
 unicode = 006F;
 },
 {
+export = 0;
 glyphname = oacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18208,8 +18281,9 @@ note = oacute;
 unicode = 00F3;
 },
 {
+export = 0;
 glyphname = ocircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18381,8 +18455,9 @@ note = ocircumflex;
 unicode = 00F4;
 },
 {
+export = 0;
 glyphname = odieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18583,8 +18658,9 @@ note = odieresis;
 unicode = 00F6;
 },
 {
+export = 0;
 glyphname = ograve;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18746,8 +18822,9 @@ note = ograve;
 unicode = 00F2;
 },
 {
+export = 0;
 glyphname = omacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -18906,8 +18983,9 @@ note = omacron;
 unicode = 014D;
 },
 {
+export = 0;
 glyphname = oslash;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -19113,8 +19191,9 @@ note = oslash;
 unicode = 00F8;
 },
 {
+export = 0;
 glyphname = otilde;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -19302,8 +19381,9 @@ note = otilde;
 unicode = 00F5;
 },
 {
+export = 0;
 glyphname = oe;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -19584,8 +19664,9 @@ note = oe;
 unicode = 0153;
 },
 {
+export = 0;
 glyphname = p;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -19768,8 +19849,9 @@ note = p;
 unicode = 0070;
 },
 {
+export = 0;
 glyphname = q;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -19952,8 +20034,9 @@ note = q;
 unicode = 0071;
 },
 {
+export = 0;
 glyphname = r;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20064,8 +20147,9 @@ note = r;
 unicode = 0072;
 },
 {
+export = 0;
 glyphname = s;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20233,8 +20317,9 @@ note = s;
 unicode = 0073;
 },
 {
+export = 0;
 glyphname = t;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20372,8 +20457,9 @@ note = t;
 unicode = 0074;
 },
 {
+export = 0;
 glyphname = u;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20510,8 +20596,9 @@ note = u;
 unicode = 0075;
 },
 {
+export = 0;
 glyphname = uacute;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20698,8 +20785,9 @@ note = uacute;
 unicode = 00FA;
 },
 {
+export = 0;
 glyphname = ucircumflex;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -20892,8 +20980,9 @@ note = ucircumflex;
 unicode = 00FB;
 },
 {
+export = 0;
 glyphname = udieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21132,8 +21221,9 @@ note = udieresis;
 unicode = 00FC;
 },
 {
+export = 0;
 glyphname = ugrave;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21320,8 +21410,9 @@ note = ugrave;
 unicode = 00F9;
 },
 {
+export = 0;
 glyphname = umacron;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21506,8 +21597,9 @@ note = umacron;
 unicode = 016B;
 },
 {
+export = 0;
 glyphname = v;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21602,8 +21694,9 @@ note = v;
 unicode = 0076;
 },
 {
+export = 0;
 glyphname = w;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21729,8 +21822,9 @@ note = w;
 unicode = 0077;
 },
 {
+export = 0;
 glyphname = x;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21851,8 +21945,9 @@ note = x;
 unicode = 0078;
 },
 {
+export = 0;
 glyphname = y;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -21966,8 +22061,9 @@ note = y;
 unicode = 0079;
 },
 {
+export = 0;
 glyphname = ydieresis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -22168,8 +22264,9 @@ note = ydieresis;
 unicode = 00FF;
 },
 {
+export = 0;
 glyphname = z;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:15 +0000";
 layers = (
 {
 hints = (
@@ -22389,8 +22486,9 @@ note = zero;
 unicode = 0030;
 },
 {
+export = 0;
 glyphname = one;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -22486,8 +22584,9 @@ note = one;
 unicode = 0031;
 },
 {
+export = 0;
 glyphname = two;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -22650,8 +22749,9 @@ note = two;
 unicode = 0032;
 },
 {
+export = 0;
 glyphname = three;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -22843,8 +22943,9 @@ note = three;
 unicode = 0033;
 },
 {
+export = 0;
 glyphname = four;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -22973,8 +23074,9 @@ note = four;
 unicode = 0034;
 },
 {
+export = 0;
 glyphname = five;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -23165,8 +23267,9 @@ note = five;
 unicode = 0035;
 },
 {
+export = 0;
 glyphname = six;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -23397,8 +23500,9 @@ note = six;
 unicode = 0036;
 },
 {
+export = 0;
 glyphname = seven;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -23516,8 +23620,9 @@ note = seven;
 unicode = 0037;
 },
 {
+export = 0;
 glyphname = eight;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -23752,8 +23857,9 @@ note = eight;
 unicode = 0038;
 },
 {
+export = 0;
 glyphname = nine;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -23988,8 +24094,9 @@ note = nine;
 unicode = 0039;
 },
 {
+export = 0;
 glyphname = asterisk;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24158,8 +24265,9 @@ note = asterisk;
 unicode = 002A;
 },
 {
+export = 0;
 glyphname = backslash;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24241,8 +24349,9 @@ note = backslash;
 unicode = 005C;
 },
 {
+export = 0;
 glyphname = periodcentered;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24317,8 +24426,9 @@ note = periodcentered;
 unicode = 00B7;
 },
 {
+export = 0;
 glyphname = bullet;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24393,8 +24503,9 @@ note = bullet;
 unicode = 2022;
 },
 {
+export = 0;
 glyphname = colon;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24503,8 +24614,9 @@ note = colon;
 unicode = 003A;
 },
 {
+export = 0;
 glyphname = comma;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24600,8 +24712,9 @@ note = comma;
 unicode = 002C;
 },
 {
+export = 0;
 glyphname = ellipsis;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24714,8 +24827,9 @@ note = ellipsis;
 unicode = 2026;
 },
 {
+export = 0;
 glyphname = exclam;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24830,8 +24944,9 @@ note = exclam;
 unicode = 0021;
 },
 {
+export = 0;
 glyphname = exclamdown;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -24946,8 +25061,9 @@ note = exclamdown;
 unicode = 00A1;
 },
 {
+export = 0;
 glyphname = numbersign;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25162,8 +25278,9 @@ note = numbersign;
 unicode = 0023;
 },
 {
+export = 0;
 glyphname = period;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25238,8 +25355,9 @@ note = period;
 unicode = 002E;
 },
 {
+export = 0;
 glyphname = question;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25431,8 +25549,9 @@ note = question;
 unicode = 003F;
 },
 {
+export = 0;
 glyphname = questiondown;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25624,8 +25743,9 @@ note = questiondown;
 unicode = 00BF;
 },
 {
+export = 0;
 glyphname = quotedbl;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25742,8 +25862,9 @@ note = quotedbl;
 unicode = 0022;
 },
 {
+export = 0;
 glyphname = quotesingle;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25822,8 +25943,9 @@ note = quotesingle;
 unicode = 0027;
 },
 {
+export = 0;
 glyphname = semicolon;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -25953,8 +26075,9 @@ note = semicolon;
 unicode = 003B;
 },
 {
+export = 0;
 glyphname = slash;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:20 +0000";
 layers = (
 {
 hints = (
@@ -26117,8 +26240,9 @@ note = underscore;
 unicode = 005F;
 },
 {
+export = 0;
 glyphname = bracketleft;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:25 +0000";
 layers = (
 {
 hints = (
@@ -26233,8 +26357,9 @@ note = bracketleft;
 unicode = 005B;
 },
 {
+export = 0;
 glyphname = bracketright;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:25 +0000";
 layers = (
 {
 hints = (
@@ -26351,8 +26476,9 @@ note = bracketright;
 unicode = 005D;
 },
 {
+export = 0;
 glyphname = parenleft;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:25 +0000";
 layers = (
 {
 hints = (
@@ -26490,8 +26616,9 @@ note = parenleft;
 unicode = 0028;
 },
 {
+export = 0;
 glyphname = parenright;
-lastChange = "2019-06-12 19:56:14 +0000";
+lastChange = "2019-06-13 11:05:25 +0000";
 layers = (
 {
 hints = (
@@ -27226,8 +27353,9 @@ note = space;
 unicode = 0020;
 },
 {
+export = 0;
 glyphname = dollar;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:28 +0000";
 layers = (
 {
 hints = (
@@ -27835,8 +27963,9 @@ note = equal;
 unicode = 003D;
 },
 {
+export = 0;
 glyphname = greater;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:31 +0000";
 layers = (
 {
 hints = (
@@ -28028,8 +28157,9 @@ note = less;
 unicode = 003C;
 },
 {
+export = 0;
 glyphname = percent;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:35 +0000";
 layers = (
 {
 hints = (
@@ -28265,8 +28395,9 @@ note = percent;
 unicode = 0025;
 },
 {
+export = 0;
 glyphname = at;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:35 +0000";
 layers = (
 {
 hints = (
@@ -28690,8 +28821,9 @@ note = at;
 unicode = 0040;
 },
 {
+export = 0;
 glyphname = asciicircum;
-lastChange = "2019-06-12 19:35:41 +0000";
+lastChange = "2019-06-13 11:05:35 +0000";
 layers = (
 {
 layerId = "B0A8294E-1052-4773-8338-C7458B103E7D";
